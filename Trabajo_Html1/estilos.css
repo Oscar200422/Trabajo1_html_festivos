@@ -1,0 +1,23 @@
+h1{
+    color: red; text-align: center;  
+}
+h2{
+    text-align: center;color: rgb(244, 244, 248);
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+    line-height: 1.6em;
+    margin-bottom: 1.6em;
+
+    background-image: url(https://s1.1zoom.me/b5050/637/361490-admin_1366x768.jpg);
+ 
+    border-style: double;border: width 20vmax;
+    
+}
+.container{
+    color: white;
+    width:85% ;
+    max-width: 850px;
+    margin:0 auto;
+}

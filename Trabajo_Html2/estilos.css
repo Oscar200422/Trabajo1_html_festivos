@@ -1,0 +1,25 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3em;
+    line-height: 1.6em;
+    margin-bottom: 1.6em;
+   
+   
+    border-style: outset;
+    text-align:center;
+    color: aliceblue;
+    background-image: url(https://fondosmil.com/fondo/456.jpg);
+   
+    
+}
+h2{
+    color: rgb(241, 239, 239);
+}
+a{
+    color: gray;
+}
+ .container{
+        width:85% ;
+        max-width: 850px;
+        margin:0 auto;
+    }

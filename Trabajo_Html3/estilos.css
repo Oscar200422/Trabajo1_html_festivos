@@ -1,0 +1,18 @@
+
+  
+
+body{
+      text-align: center;color: black;
+ background-image: url(https://static.vecteezy.com/system/resources/previews/002/012/449/large_2x/template-banner-design-white-and-gray-gradient-colors-arrows-modern-background-vector.jpg);
+
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    line-height: 1.6em;
+    margin-bottom: 1.6em;
+}
+.container{
+    width:85% ;
+    max-width: 850px;
+    margin:0 auto;
+}
