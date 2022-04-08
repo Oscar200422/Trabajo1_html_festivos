@@ -1,0 +1,37 @@
+body{
+    font-size: 2em;
+    line-height: 1.6em;
+    margin-bottom: 1.6em;
+
+    background-image: url(https://i.pinimg.com/originals/ac/44/e0/ac44e0a47247d1611e5b46608300e32f.jpg);
+ 
+}
+.container{
+    color: white;
+    width:85% ;
+    max-width: 850px;
+    
+}
+
+nav ul li{
+    background-color: none;
+    border-style: ridge;border-color:blue; 
+    
+}
+ul{
+ 
+ padding: 0%;
+ margin: 0%;
+}
+ul li a{
+    color: black;
+    text-decoration: none;
+    display: inline-table;
+}
+a:hover {
+    color: aqua;
+  }
+ footer{
+     font-size: 1em;
+ }
+
